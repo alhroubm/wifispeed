@@ -1,0 +1,1 @@
+@reboot cd /home/mo/code/wifispeed && /usr/bin/python3 /home/mo/code/wifispeed/wifispeed.py &
